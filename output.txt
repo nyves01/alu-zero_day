@@ -1,0 +1,6 @@
+bash
+c
+git
+js
+output.txt
+README.md
